@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84f7228b-8e48-4ae1-b2a8-4bc9b2930f76" name="Default Changelist" comment="" />
+    <list default="true" id="84f7228b-8e48-4ae1-b2a8-4bc9b2930f76" name="Default Changelist" comment="added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,19 +55,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -83,8 +70,16 @@
       <option name="presentableId" value="Default" />
       <updated>1619022150605</updated>
       <workItem from="1619596680215" duration="1204000" />
-      <workItem from="1619634315653" duration="13282000" />
+      <workItem from="1619634315653" duration="13482000" />
     </task>
+    <task id="LOCAL-00001" summary="added">
+      <created>1619654195977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619654195977</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +96,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added" />
+    <option name="LAST_COMMIT_MESSAGE" value="added" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1431" height="224" key="GridCell.Tab.0.bottom" timestamp="1619036941260">
